@@ -2,6 +2,12 @@
 <head>
    <title> HTML task</title>
 </head>
+<h1 style="color:blue;">This is the heading</h1>
+<p style="color:red;">This is a paragraph</p>
+<p style="font-family:verdana;">THis is a heading</p>
+<p style="font-family:courier;">This is paragraph</p>
+<h1 style="font-size:200%;"> This is a heading</h1>
+<p style="font-size:160%;"> This is a paragraph</p>
       <frameset rows="5%,20%,10%,20%">
       <frame name="first" src="/home/student/2016cse359/BTECH.HTML"/>
       <frameset cols=>
