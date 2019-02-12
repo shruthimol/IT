@@ -1,0 +1,20 @@
+<html>
+<head>
+   <title> HTML task</title>
+</head>
+      <frameset rows="5%,20%,10%,20%">
+      <frame name="first" src="/home/student/2016cse359/BTECH.HTML"/>
+      <frameset cols=>
+      <frameset cols="30%,50%,20%">
+      <frame name="left" src="/home/student/2016cse359/btech2.html"/>
+      <frame name="middle" src="/home/student/2016cse359/welcome.html"/>
+      <frame name ="right" src="/home/student/2016cse359/lab3.html"/>
+      </frameset cols> <hr>
+      <frame name="second" src="/home/student/2016cse359/imagemap.html"/>
+      <frameset cols="70%,30%">
+      <frame name ="third" src="/home/student/2016cse359/table.html"/>
+      <frame name="second" src="/home/student/2016cse359/image3.html"/>
+      </framset cols>
+
+</frameset>
+</html>
